@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.text-style {
+  background-color: rgb(224, 121, 157);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.emphasis {
+  font-size: 24px;
+}
+
+#element-2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#element-4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
